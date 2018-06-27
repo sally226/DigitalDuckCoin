@@ -1,1 +1,3 @@
 # DigitalDuckCoin
+
+just another repository
