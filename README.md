@@ -1,1 +1,1 @@
-# DigitalDuckCoin
+# GlobalDuckTour
